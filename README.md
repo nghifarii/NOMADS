@@ -1,2 +1,2 @@
 # Nomads
-Navbar for Website Traveling
+Template Website Traveling
