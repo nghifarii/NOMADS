@@ -1,2 +1,2 @@
-# Navbar
+# Nomads
 Navbar for Website Traveling
